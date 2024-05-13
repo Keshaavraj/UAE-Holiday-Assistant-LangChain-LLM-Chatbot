@@ -1,4 +1,4 @@
-🏝️ UAE Holiday Assistant: A Conversational Chatbot Powered by LangChain 🤖
+#🏝️ UAE Holiday Assistant: A Conversational Chatbot Powered by LangChain 🤖#
 Welcome to the UAE Holiday Assistant repository! Here, you'll find an intelligent chatbot designed to be your ultimate guide to the official public holidays in the United Arab Emirates. Utilizing cutting-edge technology powered by LangChain, this chatbot brings the convenience of conversational AI to your fingertips.
 
 Overview
